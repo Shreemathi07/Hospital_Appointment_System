@@ -2,7 +2,7 @@ print("======================================")
 print(" Hospital Appointment Booking System ")
 print("======================================")
 
-hospital_name = "shree Care Hospital"
+hospital_name = "Shree Care Hospital"
 
 print("Welcome to", hospital_name)
 
@@ -15,3 +15,20 @@ print("Patient Age  :", patient_age)
 print("Doctor Name  :", doctor_name)
 
 print("Appointment Booked Successfully")
+
+print("\n======================================")
+print(" Login Module ")
+print("======================================")
+
+username = "admin"
+password = "admin123"
+
+print("Username :", username)
+print("Password :", password)
+
+if username == "admin" and password == "admin123":
+    print("Login Successful")
+else:
+    print("Invalid Username or Password")
+
+print("Login Feature Added Successfully")
