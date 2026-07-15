@@ -2,7 +2,7 @@ print("======================================")
 print(" Hospital Appointment Booking System ")
 print("======================================")
 
-hospital_name = "Shree Care Hospital"
+hospital_name = "Shree City Hospital"
 
 print("Welcome to", hospital_name)
 
