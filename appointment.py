@@ -1,9 +1,5 @@
-
 print(" Hospital Appointment Booking System ")
-
-
 hospital_name = "Shree Multi Speciality Hospital"
-
 print("Welcome to", hospital_name)
 
 patient_name = "John"
@@ -15,10 +11,7 @@ print("Patient Age  :", patient_age)
 print("Doctor Name  :", doctor_name)
 
 print("Appointment Booked Successfully")
-
-print("\n======================================")
 print(" Login Module ")
-
 
 username = "admin"
 password = "admin123"
