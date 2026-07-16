@@ -1,6 +1,6 @@
-print("======================================")
+
 print(" Hospital Appointment Booking System ")
-print("======================================")
+
 
 hospital_name = "Shree Multi Speciality Hospital"
 
@@ -18,7 +18,7 @@ print("Appointment Booked Successfully")
 
 print("\n======================================")
 print(" Login Module ")
-print("======================================")
+
 
 username = "admin"
 password = "admin123"
